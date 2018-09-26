@@ -1,0 +1,7 @@
+{
+  "data_folder_path":"/data",
+  "data_file_name":"/chromosomes.json",
+  "accepted_polymorphisms":20,
+  "first_chromosome":3,
+  "second_chromosome":12
+}
